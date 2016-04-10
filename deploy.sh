@@ -16,5 +16,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
-git subtree push --prefix=public git@github.com:VDuda/playwright-irene.git gh-pages
+git checkout master
+git push -f origin master
+git subtree push -f --prefix=public git@github.com:VDuda/playwright-irene.git gh-pages
+git checkout -

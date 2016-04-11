@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Thoughts on Irene Kowal</title>
-    <link>http://www.irenakowal.com/categories/personal-thoughts/</link>
-    <description>Recent content in Personal Thoughts on Irene Kowal</description>
+    <title>Irene Kowal</title>
+    <link>http://www.irenakowal.com/tags/</link>
+    <description>Recent content on Irene Kowal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
-    <atom:link href="http://www.irenakowal.com/categories/personal-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.irenakowal.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome!</title>

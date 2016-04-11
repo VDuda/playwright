@@ -4,6 +4,7 @@ tags = ["bio"]
 categories = ["biography"]
 menu = "main"
 banner = "static/banners/placeholder.png"
+showthedate = false
 +++
 
 I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:

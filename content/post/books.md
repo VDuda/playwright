@@ -7,5 +7,3 @@ menu = ""
 banner = "banners/placeholder.png"
 +++
 
-## Step 1. Reinstall firefox
-

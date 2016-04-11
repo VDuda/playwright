@@ -6,16 +6,31 @@
     <description>Recent content on Irene Kowal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2016 13:07:31 +0200</lastBuildDate>
     <atom:link href="http://www.irenakowal.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome!</title>
       <link>http://www.irenakowal.com/welcome</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <pubDate>Sun, 10 Jan 2016 13:07:31 +0200</pubDate>
       
       <guid>http://www.irenakowal.com/welcome</guid>
-      <description></description>
+      <description>&lt;p&gt;Welcome to my personal site, on here you will be able to find a collection of my works as well as any immediate messages from myself.&lt;/p&gt;
+
+&lt;p&gt;Please do feel free to contact me through the links on the left hand side.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Displaced - to be brief</title>
+      <link>http://www.irenakowal.com/displaced---to-be-brief</link>
+      <pubDate>Sat, 03 Oct 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://www.irenakowal.com/displaced---to-be-brief</guid>
+      <description>&lt;p&gt;The novel takes on the nature of a harmonious collage reflected in the world as I know it. I was the reader to approximate the white hot intensity I felt as I wrote these pages and to live through the experience of being continually displaced, not because I am playing intellectual games but because the lives of these characters demand it. Dates and geographic location are often omitted as time is not of essence.&lt;/p&gt;
+
+&lt;p&gt;We are obsessed with information and pragmatism at the expense of beauty and truth. With the writing of this fiction cyclorama based on biographical events, I am taking full advantage of my feminie psychological make-up, my unique network of neurons. Every man tells me my head works differently from his, that a woman is unable to think in terms of cause and effect, that he will never fathom how a woman&amp;rsquo;s head works. I consider that a great asset for an artist.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -389,18 +404,6 @@ so, such as in this example:&lt;/p&gt;
   {{end}}&amp;lt;/ul&amp;gt;
 &amp;lt;/nav&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Displaced - to be brief</title>
-      <link>http://www.irenakowal.com/displaced---to-be-brief</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>http://www.irenakowal.com/displaced---to-be-brief</guid>
-      <description>&lt;p&gt;The novel takes on the nature of a harmonious collage reflected in the world as I know it. I was the reader to approximate the white hot intensity I felt as I wrote these pages and to live through the experience of being continually displaced, not because I am playing intellectual games but because the lives of these characters demand it. Dates and geographic location are often omitted as time is not of essence.&lt;/p&gt;
-
-&lt;p&gt;We are obsessed with information and pragmatism at the expense of beauty and truth. With the writing of this fiction cyclorama based on biographical events, I am taking full advantage of my feminie psychological make-up, my unique network of neurons. Every man tells me my head works differently from his, that a woman is unable to think in terms of cause and effect, that he will never fathom how a woman&amp;rsquo;s head works. I consider that a great asset for an artist.&lt;/p&gt;
 </description>
     </item>
     

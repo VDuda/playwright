@@ -1,5 +1,5 @@
 +++
-title = "Hugo is for lovers"
+title = "Displaced - to be brief"
 date = "2015-08-03T13:39:46+02:00"
 tags = ["books", "displaced"]
 categories = ["books"]

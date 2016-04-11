@@ -21,7 +21,7 @@ theme = "hugo-icarus-theme"
     bio = "Author - Writer - Playwright"
     location = "Boston, MA"
     site_description = ""
-    copyright  = "Powered by [Hugo]()."
+    copyright  = "Powered by [Hugo](irenakowal.com)."
     avatar = "css/images/author-bio.jpg"
 
     # Format dates with Go's time formatting

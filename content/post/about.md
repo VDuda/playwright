@@ -1,6 +1,5 @@
 +++
 title = "About Me"
-date = "2015-10-02T21:49:20+02:00"
 tags = ["bio"]
 categories = ["biography"]
 menu = "main"

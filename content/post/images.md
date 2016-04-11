@@ -5,7 +5,7 @@ tags = [""]
 categories = ["books"]
 menu = ""
 banner = "banners/placeholder.png"
-menu = "main"
+menu = "main-2"
 showthedate = false
 disable_comments = true
 +++

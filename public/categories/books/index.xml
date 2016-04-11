@@ -22,6 +22,18 @@
     </item>
     
     <item>
+      <title>Example post for books</title>
+      <link>http://www.irenakowal.com/example-post-for-books</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://www.irenakowal.com/example-post-for-books</guid>
+      <description>
+
+&lt;h2 id=&#34;testing-this-post-for-books:4764ee945f59da76a3400be7a8b931dc&#34;&gt;Testing this post for books&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hugo is for lovers</title>
       <link>http://www.irenakowal.com/hugo-is-for-lovers</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
@@ -31,14 +43,17 @@
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>http://www.irenakowal.com/hugo-is-for-lovers</link>
+      <title>Images</title>
+      <link>http://www.irenakowal.com/images</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://www.irenakowal.com/hugo-is-for-lovers</guid>
-      <description>
+      <guid>http://www.irenakowal.com/images</guid>
+      <description>&lt;p&gt;This is still an experimental work in progress. Working on organizing and orchestrating the pictures below. Will currently maintain the current page as an archival repository.&lt;/p&gt;
 
-&lt;h2 id=&#34;step-1-reinstall-firefox:88aac7a07addfbee771d05b85cb8c827&#34;&gt;Step 1. Reinstall firefox&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3934_1024.jpg&#34; alt=&#34;Image-1&#34; /&gt;
+&lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3935_1024.jpg&#34; alt=&#34;Image-2&#34; /&gt;
+&lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3936_1024.jpg&#34; alt=&#34;Image-3&#34; /&gt;
+&lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3937_1024.jpg&#34; alt=&#34;Image-4&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -3,9 +3,8 @@ title = "Images"
 date = "2015-08-03T13:39:46+02:00"
 tags = [""]
 categories = ["books"]
-menu = ""
+menu = "main"
 banner = "banners/placeholder.png"
-menu = "main-2"
 showthedate = false
 disable_comments = true
 +++

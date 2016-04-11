@@ -1,10 +1,10 @@
 +++
-title = "Migrate from Jekyll"
+title = "Welcome!"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
+tags = [""]
 categories = ["personal-thoughts"]
 menu = ""
-banner = "banners/placeholder.png"
+banner = "static/banners/lviv.jpeg"
 +++
 
 ## Move static content to `static`

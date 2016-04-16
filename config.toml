@@ -52,7 +52,6 @@ theme = "hugo-icarus-theme"
 [params.profile]
 #    follow_button = "https://github.com/digitalcraftsman"
 
-
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be

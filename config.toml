@@ -18,7 +18,7 @@ theme = "hugo-icarus-theme"
 [params]
     # Tell me who you are
     author = "Irena Kowal"
-    bio = "Author - Writer - Playwright"
+    bio = "Author - Playwright"
     location = "Boston, MA"
     site_description = ""
     copyright  = "Powered by [Hugo](www.irenakowal.com)."

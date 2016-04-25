@@ -24,8 +24,7 @@ In October, 2007 THE LION AND THE LIONESS and THE MARINATED ARISTOCRAT were publ
 
 Her novella entitled THE BAREFOOT BALLERINA received a grant from the American Embassy in Kyiv, was translated into Ukrainian, and published by Duliby press. THe first edition has been sold out. The novella is currently being adapted into a ballet. 
 
-Chapters of her autobiographical novel DISPLACED were well received during a reading at Harvard University on March 20,2012. The novel will be published in late 
-May,2016. 
+Chapters of her autobiographical novel DISPLACED were well received during a reading at Harvard University on March 20,2012. The novel will be published in late May,2016. 
 
 The Kyiv television production company Zoloti Vorota madea film of Kowal's play THE LION AND THE LIONESS staged at Kyiv's National Theatre. The film has been screened at Harvard University, Washington D.C. and Chicago.
 

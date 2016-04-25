@@ -8,6 +8,8 @@ banner = "static/banners/lviv.jpeg"
 disable_comments = true
 +++
 
-Welcome to my personal site, on here you will be able to find a collection of my works as well as any immediate messages from myself.
+Welcome to my personal site where you will find a collection of photos from the productions of my plays, reviews 
 
-Please do feel free to contact me through the links on the left hand side.
+about my plays and novella, a short video of my work as well as my own thoughts.
+
+Please feel free to contact me through the links on the left.

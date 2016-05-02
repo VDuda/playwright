@@ -4,7 +4,7 @@ date = "2015-10-03T13:39:46+02:00"
 tags = ["books", "displaced"]
 categories = ["books"]
 menu = ""
-banner = "banners/placeholder.png"
+banner = "static/banners/placeholder.png"
 +++
 
 In the novel DISPLACED, a Ukrainian and American are drawn to one another the first time they meet in Moscow in 1969. Orest and Irena are brother and sister in their twenties, separated by war, about to spend August taking a trip through Soviet Ukraine that will change their lives forever. 

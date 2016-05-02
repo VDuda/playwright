@@ -4,7 +4,7 @@ date = "2015-10-03T13:39:46+02:00"
 tags = ["interviews", "barefoot ballerina"]
 categories = ["interviews"]
 menu = ""
-banner = "banners/voice-natalie-interview.png"
+banner = "static/banners/voice-natalie-interview.png"
 +++
 
 *Нещодавно у Львові відбулася презентація нової книги американської письменниці українського походження Ірени Коваль “Балерина без пуантів”. Як народився твір, про те якою бачить пані Ірена Україну та про творчі плани автора – у ексклюзивному інтерв’ю письменниці Вголосу.*

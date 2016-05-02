@@ -4,7 +4,7 @@ date = "2015-10-03T13:39:46+02:00"
 tags = ["interviews", "barefoot ballerina"]
 categories = ["interviews"]
 menu = ""
-banner = "banners/placeholder.png"
+banner = "static/banners/placeholder.png"
 +++
 
 *Фото автора Анна СВЕНТАХ* 
@@ -20,5 +20,5 @@ banner = "banners/placeholder.png"
 
 Ірена Коваль уже закінчує роман «Відірвані». Праця над твором триває чотири роки. Текст розгортатиметься на двох фронтах – в Україні та Америці – і носитиме автобіографічний характер. У ньому змальовуватиметься зустріч брата і сестри у 1969 році, які ніколи не бачилися до того.
 
-![Ірена Коваль](/static/images/anna-cventah-interview.png)
+![Ірена Коваль](static/images/anna-cventah-interview.png)
 На фото: Ірена Коваль: “Я – космополіт з глибоким українським корінням”. 

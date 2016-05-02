@@ -4,7 +4,7 @@ date = "2015-10-03T13:39:46+02:00"
 tags = ["interviews", "barefoot ballerina"]
 categories = ["interviews"]
 menu = ""
-banner = "banners/placeholder.png"
+banner = "static/banners/placeholder.png"
 +++
 
 Після успішного представлення у Києві американська письменниця українського походження Ірена Коваль навідалася й до Львова зі своєю новою книгою – казкою для дорослих «Балерина без пуантів».

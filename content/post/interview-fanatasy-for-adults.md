@@ -4,7 +4,7 @@ date = "2015-10-03T13:39:46+02:00"
 tags = ["interviews", "barefoot ballerina"]
 categories = ["interviews"]
 menu = ""
-banner = "static/banners/voice-natalie-interview.png"
+banner = "static/banners/placeholder.png"
 +++
 
 *Георгій-Григорій ПИЛИПЕНКО*

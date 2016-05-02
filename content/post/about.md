@@ -7,8 +7,7 @@ banner = "static/banners/placeholder.png"
 date = "2015-09-17T13:47:08+02:00"
 showthedate = false
 disable_comments = true
-++
-+
++++
 
 Born in a refugee camp in postwar Germany, raised and educated in the United States, Irena Kowal moved to Kyiv, Ukraine in the mid 1990's and fully embraced her literary calling. 
 

@@ -1,7 +1,7 @@
 +++
 title = "The Barefoot Ballerina - Балерина без пуантів"
 date = "2015-09-17T13:47:08+02:00"
-tags = [""]
+tags = ["interviews", "barefoot ballerina"]
 categories = ["interviews"]
 menu = ""
 banner = "banners/placeholder.png"

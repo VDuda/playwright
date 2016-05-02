@@ -2,7 +2,7 @@
 title = "Welcome!"
 date = "2016-01-10T13:07:31+02:00"
 tags = [""]
-categories = ["personal-thoughts"]
+categories = ["general"]
 menu = ""
 banner = "static/banners/lviv.jpeg"
 disable_comments = true

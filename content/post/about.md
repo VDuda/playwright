@@ -29,7 +29,7 @@ May,2016.
 
 The Kyiv television production company Zoloti Vorota made a film of Kowal's play THE LION AND THE LIONESS staged at Kyiv's National Theatre. The film has been screened at Harvard University, Washington D.C. and Chicago.
 
-She wrote, choreographed and produced three tableaux for the 200th birthday of the Ukrainian bard Taras Shevchenko. The concert was held at the Longy School of Music, Cambridge, MA on March 15, 2014. 
+She wrote, choreographed and directed three tableaux for the 200th birthday of the Ukrainian bard Taras Shevchenko. The concert was held at the Longy School of Music, Cambridge, MA on March 15, 2014. 
 
 Currently, she is also working on a commissioned play entitled WOMAN IN TWO.
 

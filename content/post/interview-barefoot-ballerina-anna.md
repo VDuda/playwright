@@ -4,7 +4,7 @@ date = "2015-10-03T13:39:46+02:00"
 tags = ["interviews", "barefoot ballerina"]
 categories = ["interviews"]
 menu = ""
-banner = "static/banners/placeholder.png"
+banner = "static/banners/interview-banner.png"
 +++
 
 *Фото автора Анна СВЕНТАХ*

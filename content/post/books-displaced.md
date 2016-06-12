@@ -1,6 +1,6 @@
 +++
 title = "Displaced - to be brief"
-date = "2015-10-03T13:39:46+02:00"
+date = "2016-01-03T13:39:46+02:00"
 tags = ["books", "displaced"]
 categories = ["books"]
 menu = ""

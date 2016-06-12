@@ -1,6 +1,6 @@
 +++
 title = "<< Marinated Aristocrat >> The Fable"
-date = "2015-10-02T13:39:46+02:00"
+date = "2015-12-02T13:39:46+02:00"
 tags = ["plays", "aristocrat"]
 categories = ["plays"]
 menu = ""
@@ -17,4 +17,4 @@ To stop his anarchic energy which has overturned his stable world, the old man k
 
 Both Anglo-Saxon conservatism and Ukrainian political correctness, with obligatory portraits of its national heroes, are ironically treated.
 
-The accent in this play is on theatricality. Reality is present through both the aesthetics of the grotesque and the absurd. The emotional and psychological metamorphosis is rendered through the prism of a play within a play. 
+The accent in this play is on theatricality. Reality is present through both the aesthetics of the grotesque and the absurd. The emotional and psychological metamorphosis is rendered through the prism of a play within a play.

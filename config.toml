@@ -2,7 +2,7 @@ baseurl = "http://www.irenakowal.com/"
 languageCode = "en-us"
 title = "Irene Kowal"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+disqusShortname = "irenakowal"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-75344053-1"
 # Define the number of posts per page
@@ -47,6 +47,11 @@ theme = "hugo-icarus-theme"
     before = false
     label  = "Categories"
     link   = "categories/"
+
+[[params.menu]]
+    before = false
+    label  = "Images"
+    link   = "images/"
 
 # Enter a link for the follow button on the left
 [params.profile]

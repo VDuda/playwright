@@ -1241,18 +1241,18 @@ a.article-title:hover {
   margin: 0 auto;
 }
 
-div.img {
+div.img-gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
 }
 
-div.img:hover {
+div.img-gallery:hover {
     border: 1px solid #777;
 }
 
-div.img img {
+div.img-gallery img {
     width: 25%;
     height: auto;
 }

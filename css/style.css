@@ -1222,7 +1222,6 @@ a.article-title:hover {
 }
 .article-gallery-photos {
   position: relative;
-  overflow: hidden;
 }
 .article-gallery-img {
   display: none;

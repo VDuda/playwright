@@ -31,137 +31,203 @@
 &lt;div class=&#34;article-gallery&#34;&gt;
     &lt;div class=&#34;article-gallery-photos&#34;&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3934_1024.jpg&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3934_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3934_1024.jpg&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3934_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3935_1024.jpg&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3935_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3935_1024.jpg&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3935_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3936_1024.jpg&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3936_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3936_1024.jpg&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3936_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3937_1024.jpg&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3937_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3937_1024.jpg&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/thumb_IMG_3937_1024.jpg&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3964.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3964.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3964.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3964.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3965.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3965.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3965.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3965.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3966.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3966.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3966.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3966.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3967.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3967.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3967.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3967.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3968.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3968.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3968.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3968.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3969.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3969.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3969.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3969.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3970.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3970.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3970.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3970.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3971.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3971.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3971.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3971.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3972.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3972.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3972.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3972.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3973.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3973.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3973.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3973.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3974.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3974.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3974.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3974.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3975.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3975.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3975.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3975.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3976.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3976.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3976.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3976.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3977.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3977.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3977.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3977.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3978.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3978.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3978.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3978.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3979.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3979.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3979.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3979.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3980.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3980.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3980.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3980.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3982.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3982.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3982.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3982.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3983.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3983.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_3983.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_3983.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4504.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4504.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4504.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4504.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4505.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4505.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4505.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4505.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4506.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4506.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4506.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4506.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4507.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4507.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4507.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4507.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4508.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4508.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4508.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4508.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4509.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4509.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4509.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4509.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4510.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4510.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4510.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4510.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4511.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4511.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4511.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4511.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4512.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4512.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4512.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4512.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
-        &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4513.JPG&#34; rel=&#34;group1&#34;&gt;
-            &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4513.JPG&#34; itemprop=&#34;image&#34;&gt;
-        &lt;/a&gt;
+        &lt;div class=&#34;img-gallery&#34;&gt;
+          &lt;a class=&#34;article-gallery-img fancybox&#34; href=&#34;http://www.irenakowal.com/static/images/IMG_4513.JPG&#34; rel=&#34;group1&#34;&gt;
+              &lt;img src=&#34;http://www.irenakowal.com/static/images/IMG_4513.JPG&#34; itemprop=&#34;image&#34;&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
         
     &lt;/div&gt;
 &lt;/div&gt;

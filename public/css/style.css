@@ -1240,6 +1240,23 @@ a.article-title:hover {
   max-width: 100%;
   margin: 0 auto;
 }
+
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 25%;
+    height: auto;
+}
+
 .toc-article {
   background: #f9f9f9;
   margin: 2em 0 0 0.2em;

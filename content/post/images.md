@@ -6,10 +6,10 @@ categories = ["books"]
 menu = "main"
 banner = "banners/placeholder.png"
 showthedate = false
-disable_comments = true
+disable_comments = false
 +++
 
-This is still an experimental work in progress. Working on organizing and orchestrating the pictures below. Will currently maintain the current page as an archival repository.
+Below are several images from previous works. Please feel free to reach out for a more detailed list of images. 
 {{< gallery
 "/static/images/thumb_IMG_3934_1024.jpg"
 "/static/images/thumb_IMG_3935_1024.jpg"

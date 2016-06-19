@@ -38,7 +38,6 @@ Below are several images from previous works. Please feel free to reach out for 
 "/static/images/IMG_3969.JPG"
 "/static/images/IMG_3970.JPG"
 "/static/images/IMG_3971.JPG"
-"/static/images/IMG_3974.JPG"
 "/static/images/IMG_3975.JPG"
 "/static/images/IMG_4510.JPG"
 "/static/images/IMG_4511.JPG"

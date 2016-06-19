@@ -1,5 +1,5 @@
 +++
-title = "In dialogue with British dramaturgy: Irena Kowal Implements Drama conference"
+title = "Reviews: The Marinated Aristocrat"
 date = "2015-12-02T13:39:45+02:00"
 tags = ["reviews"]
 categories = ["reviews"]
@@ -7,7 +7,7 @@ menu = ""
 banner = "static/banners/marinated-aristocrat-irena.jpg"
 +++
 
-This [The Marinated Aristocrat] is an extraordinary production of a hilariously funny play which is an acerbic commentary on the post-Soviet reality in Ukraine. Irena Kowal wrote this, her second, play in English, but here, in Kyiv, it is brilliantly staged in a Ukrainian translation at the Molody Theatre, which is well-known for staging more experimental works. 
+This [The Marinated Aristocrat] is an extraordinary production of a hilariously funny play which is an acerbic commentary on the post-Soviet reality in Ukraine. Irena Kowal wrote this, her second, play in English, but here, in Kyiv, it is brilliantly staged in a Ukrainian translation at the Molody Theatre, which is well-known for staging more experimental works.
 
 The play, written in the tradition of the theatre of the absurd, deals with the culture clash that results when a Ukrainian actor, Boris is encouraged by his ambitious wife (who has an underwear stall at the local market) to seek his fortune overseas. He takes a position as a manservant with an elderly British couple, but quickly discovers that his real position will be to play out roles according to their fantasies. But his own fantasy, fueled by *samogon* (homemade vodka), is richer and the tables are turned as he takes control of the  situation. He makes actors out of the old couple, forcing them out of their hidebound roles and bringing them back to their youth. But the role-playing takes over reality, and the old man, who has been dressed up as a hetman, takes the sword-wielding a step too far, and takes the sword to Boris, leaving him dead. The poor actor is then pickled in *formaldehyde a la Damien Hurst*, while his wife, now an underwear tycoon back in Ukraine, laments her misplaced ambitions...
 

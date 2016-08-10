@@ -7,7 +7,7 @@ menu = ""
 banner = "static/banners/ukr-weekly-displaced.png"
 +++
 
-![Irena Kowal autographs a copy of her new novel, “Displaced.”](static/smalls/IMG_2472-1.jpg)
+![Irena Kowal autographs a copy of her new novel, “Displaced.”](static/smalls/ukr-weekly-irene.png)
 
 **By Christine Slywotzky**
 
